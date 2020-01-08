@@ -1,0 +1,13 @@
+Filtering for travel expenditures over $200
+
+
+February was the month with the most travel expenditures (244 expenditures)
+
+The most frequent payee is CITIBANK Gov Card service (3038x) the next runner up was only 52x and it was For Motor Credit. Huge skew toward CITIBANK.
+
+There's a wounded warrior expense program that only made 51 travel payments. 
+
+The CHIEF ADMIN officer of the house made the most travel expenditures (103x)
+
+The largest travel expenditure value was $13,902.1. 
+
