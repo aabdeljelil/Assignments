@@ -16,6 +16,6 @@ function divide(a,b) {
 }
 
 // This part of the code prints the function
-print("I'm going use the calculator functions to divide 10 by 2")
+console.log("I'm going use the calculator functions to divide 10 by 2")
 var x = divide(10,2)
 console.log(x)
